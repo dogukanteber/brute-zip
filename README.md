@@ -4,6 +4,8 @@
 
 
 Nothing fancy, just a small script for brute-forcing password-protected zip files.
+
+
 ![An example of how the script looks like when it is running](cracker.gif)
 
 
